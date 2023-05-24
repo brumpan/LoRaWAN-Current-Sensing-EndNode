@@ -9,3 +9,11 @@ This page contains the design files and software for a current-sensing end node 
 https://github.com/ElectronicCats/Beelan-LoRaWAN.git
 
 https://github.com/earlephilhower/arduino-pico.git
+
+# Credits
+
+This project constitutes partial fulfillment of the Senior Project Capstone, a prerequisite for obtaining a Bachelor's degree in Electrical Engineering from The Oregon Institute of Technology.
+
+Project Members: Brendan Dickerson & Leo Zenuhin
+
+Spring 2023
